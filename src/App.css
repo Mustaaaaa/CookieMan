@@ -1,0 +1,14 @@
+
+.custom-slider::-moz-range-thumb {
+    width: 30px;
+    height: 30px;
+    background-image: url('/Scudo.svg');
+    background-color: transparent;
+    background-size: contain;
+    cursor: pointer;
+    border: none;
+}
+.flex-roww{
+    display: flex;
+    flex-direction: row;
+}
