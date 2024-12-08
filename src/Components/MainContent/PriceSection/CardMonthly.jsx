@@ -16,7 +16,7 @@ const CardMonthly = () => {
 
 
     return (
-        <div className="w-[calc(50%)] lg:w-[calc(40%)]  shadow-2xl mt-40 lg:mt-72 rounded-3xl lg:ml-[calc(103px)] p-4 z-10  bg-white/50">
+        <div className="w-[calc(50%)] lg:w-[calc(50%)]  shadow-2xl mt-40 lg:mt-72 rounded-3xl lg:ml-[calc(50px)] p-4 z-10  bg-white/50">
 
             <p className="text-lg lg:text-3xl text-green-500">Mensile</p>
 

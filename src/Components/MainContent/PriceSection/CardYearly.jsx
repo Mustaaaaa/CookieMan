@@ -12,7 +12,7 @@ const CardYearly = () => {
     const TotalPrice = Price * 12 * year * Discount;
 
     return (
-        <div className="w-[calc(50%)] lg:w-[calc(40%)] shadow-2xl mt-40 lg:mt-72 rounded-3xl bg-white/50 p-4 z-10">
+        <div className="w-[calc(50%)] lg:w-[calc(50%)] shadow-2xl mt-40 lg:mt-72 rounded-3xl bg-white/50 p-4 z-10">
 
             <p className="text-lg lg:text-3xl text-green-500">Annuale</p>
 

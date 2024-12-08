@@ -2,7 +2,7 @@
 const CardMultiDominio = () => {
 
     return (
-        <div className="w-full lg:w-full shadow-2xl lg:mt-72 rounded-3xl  bg-white/50 p-4 z-10">
+        <div className="w-{clac(90%)} lg:w-full shadow-2xl lg:mt-72 rounded-3xl  bg-white/50 p-4 z-10">
 
             <p className="text-lg lg:text-5xl text-orange-500 font-semibold text-center">MULTI DOMINIO</p>
             <p className="text-lg lg:text-2xl my-3 lg:my-20">Se hai più di un dominio, se sei una web agency o lavori nel digitale, contattaci per avere un’offerta a te dedicata.</p>
