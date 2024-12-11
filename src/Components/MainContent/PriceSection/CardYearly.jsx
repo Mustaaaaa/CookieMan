@@ -47,7 +47,7 @@ const CardYearly = () => {
             </div>
 
             <div>
-                <button className='bg-green-400 text-white font-semibold text-lg lg:text-xl rounded-lg lg:rounded-[calc(30px)] w-full h-[calc(33px)] lg:h-[calc(85px)] mt-1'>ACQUISTA</button>
+                <button className='bg-green-400 hover:bg-green-900 duration-500 text-white font-semibold text-lg lg:text-xl rounded-lg lg:rounded-[calc(30px)] w-full h-[calc(33px)] lg:h-[calc(85px)] mt-1'>ACQUISTA</button>
             </div>
         </div>
     )

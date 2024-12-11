@@ -32,7 +32,7 @@ const CardMonthly = () => {
             </div>
 
             <div>
-                <button className='bg-green-400 text-white font-semibold text-lg lg:text-xl rounded-lg lg:rounded-[calc(30px)]  h-[calc(33px)] w-full lg:h-[calc(85px)] lg:mt-1'>ACQUISTA</button>
+                <button className='bg-green-400 hover:bg-green-900 duration-500 text-white font-semibold text-lg lg:text-xl rounded-lg lg:rounded-[calc(30px)]  h-[calc(33px)] w-full lg:h-[calc(85px)] lg:mt-1'>ACQUISTA</button>
             </div>
         </div>
     )
